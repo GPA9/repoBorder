@@ -1,0 +1,22 @@
+* {
+    margin: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+body {
+    box-sizing: border-box;
+    border-top-color: green;
+    border-top-width: 10px;
+    border-top-style:dotted ;
+    border-bottom-color: red;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    border-left-color: black;
+    border-left-width: 10px;
+    border-left-style: double;
+    border-right-color: blue;
+    border-right-width: 10px;
+    border-right-style:dashed ;
+}
